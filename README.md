@@ -5,7 +5,8 @@
 - 👋 Hola, soy @JuanFelipeJoaqui
 - 🎓 Estudiante de Ingeniería de Sistemas (8vo semestre) en la Universidad Pontificia Bolivariana
 - 🔐 Apasionado por la Ciberseguridad y el desarrollo de software
-- 🌱 Actualmente fortaleciendo mis conocimientos en áreas como seguridad informática y desarrollo backend
+- 🌱 Actualmente fortaleciendo mis conocimientos en áreas como seguridad informática, arquitectura de nube y analitica de datos
+- 
 
 ## Intereses Profesionales
 - 🖥️ Ingeniería de Software
