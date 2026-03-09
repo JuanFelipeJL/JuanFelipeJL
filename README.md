@@ -29,9 +29,9 @@ Me encuentro en un momento de constante aprendizaje. Me gusta adaptarme a nuevos
 # Juan Felipe Joaqui
 ## About Me
 - 👋 Hi, I'm @JuanFelipeJoaqui
-- 🎓 Systems Engineering student (7th semester) at Universidad Pontificia Bolivariana
+- 🎓 Systems Engineering student (8th semester) at Universidad Pontificia Bolivariana
 - 🔐 Passionate about Cybersecurity and Software Development
-- 🌱 Currently enhancing my knowledge in areas like Information Security and Backend Development
+- 🌱 Currently enhancing my knowledge in areas like Information Security, AWS and data analytics
 
 ## Professional Interests
 - 🖥️ Software Engineering
